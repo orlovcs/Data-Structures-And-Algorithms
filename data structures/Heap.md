@@ -1,0 +1,1 @@
+A heap is a special tree-based data structure that satisfies the heap property, where each parent node is greater than or equal to (or less than or equal to) its child nodes, commonly used to implement priority queues.

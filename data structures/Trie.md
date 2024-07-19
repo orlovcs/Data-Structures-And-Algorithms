@@ -1,0 +1,1 @@
+A trie is a tree-like data structure used to efficiently store and search a dynamic set of strings, where nodes represent characters and paths represent words.

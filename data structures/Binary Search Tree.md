@@ -1,0 +1,1 @@
+A binary tree is a type of tree where each node has at most two children, referred to as the left and right children

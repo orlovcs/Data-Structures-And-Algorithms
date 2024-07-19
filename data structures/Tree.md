@@ -1,0 +1,1 @@
+A tree is a hierarchical data structure consisting of nodes, where each node has a value and zero or more child nodes, with a single root node from which all other nodes descend.

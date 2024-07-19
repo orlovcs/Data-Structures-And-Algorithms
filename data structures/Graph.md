@@ -1,0 +1,1 @@
+A graph is a collection of nodes (vertices) and edges connecting pairs of nodes, used to represent relationships or networks.

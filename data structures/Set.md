@@ -1,0 +1,1 @@
+A set is an unordered collection of distinct elements, used to test membership and perform set operations like union, intersection, and difference.

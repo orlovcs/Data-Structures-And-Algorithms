@@ -8,7 +8,7 @@
 - Heaps
 - Vectors
 - Array Lists
-- [[hash tables]]
+- [[Hash Table]]
 #### Algorithms
 - Breadth-first search
 - Depth-first search

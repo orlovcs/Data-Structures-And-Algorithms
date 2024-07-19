@@ -1,0 +1,1 @@
+An array is a collection of elements stored at contiguous memory locations, allowing for efficient indexing and iteration.
