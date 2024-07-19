@@ -7,14 +7,14 @@
 - Queues
 - Heaps
 - Vectors
-- ArrayLists
-- HashTables
+- Array Lists
+- [[hash tables]]
 #### Algorithms
 - Breadth-first search
 - Depth-first search
 - Binary search
-- Merge sort
-- Quick sort
+- Mergesort
+- Quicksort
 #### Concepts
 - Bit manipulation
 - Memory

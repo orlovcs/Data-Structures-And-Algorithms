@@ -1,0 +1,1 @@
+A hash table is a data structure which efficiently maps keys to values.
