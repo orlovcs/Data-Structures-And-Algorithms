@@ -1,0 +1,1 @@
+An array list is a dynamic array that allows for efficient random access and automatic resizing, enabling flexible management of elements with varying sizes.
