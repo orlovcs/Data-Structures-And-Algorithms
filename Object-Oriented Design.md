@@ -1,0 +1,1 @@
+Clarify questions with six Ws: who, what, where, when, how and why.
